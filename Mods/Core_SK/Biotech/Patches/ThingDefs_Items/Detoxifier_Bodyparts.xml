@@ -23,14 +23,14 @@
                         <Mass>2</Mass>
                         <MaxHitPoints>75</MaxHitPoints>
                     </statBases>
-                    <costList Replace="True">
+                    <costList DeepReplace="True">
                         <Biomatter>20</Biomatter>
                         <CarbonAlloy>5</CarbonAlloy>
                         <SyntheticFibers>8</SyntheticFibers>
                         <Microchips>2</Microchips>
                         <ComponentSpacer>2</ComponentSpacer>
                     </costList>
-                    <recipeMaker Replace="True">
+                    <recipeMaker DeepReplace="True">
                         <productCount>1</productCount>
                         <skillRequirements>
                             <Crafting>10</Crafting>
@@ -46,14 +46,14 @@
                         <Mass>1</Mass>
                         <MaxHitPoints>75</MaxHitPoints>
                     </statBases>
-                    <costList Replace="True">
+                    <costList DeepReplace="True">
                         <Biomatter>15</Biomatter>
                         <CarbonAlloy>5</CarbonAlloy>
                         <SyntheticFibers>6</SyntheticFibers>
                         <Microchips>2</Microchips>
                         <ComponentSpacer>1</ComponentSpacer>
                     </costList>
-                    <recipeMaker Replace="True">
+                    <recipeMaker DeepReplace="True">
                         <productCount>1</productCount>
                         <skillRequirements>
                             <Crafting>10</Crafting>
