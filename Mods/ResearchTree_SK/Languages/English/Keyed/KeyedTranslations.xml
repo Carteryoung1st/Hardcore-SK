@@ -42,6 +42,6 @@
   <ResearchTreeSK.NoColonistMechaniator>Mechaniator not found in colony</ResearchTreeSK.NoColonistMechaniator>
   <ResearchTreeSK.MissingStudiedThings>Unavalible: {0}</ResearchTreeSK.MissingStudiedThings>
 
-  <ResearchTreeSK.AlreadyResearched>Already researched</ResearchTreeSK.AlreadyResearched>
+  <ResearchTreeSK.AlreadyResearched>This research is completed</ResearchTreeSK.AlreadyResearched>
 
 </LanguageData>
