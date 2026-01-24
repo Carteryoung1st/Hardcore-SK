@@ -96,7 +96,7 @@
 	</Operation>
 	
 	<Operation Class="PatchOperationReplace">
-		<xpath>Defs/ThingDef[defName="Eccentric_ArtilleryDesignator" or defName="Apparel_PackJump"]/recipeMaker/skillRequirements</xpath>
+		<xpath>Defs/ThingDef[defName="Apparel_PackBroadshield" or defName="Apparel_PackJump"]/recipeMaker/skillRequirements</xpath>
 		<value>
 		<skillRequirements>
 			<Crafting>12</Crafting>
